@@ -1,0 +1,14 @@
+baseURL = "https://atlsynth.club/"
+languageCode = "en-us"
+copyright = "Copyright - Atlanta Synthesizer CLub"
+title = "Atlanta Synthesizer Club"
+
+### begin: theme settings ###
+# See https://themes.gohugo.io/gohugo-theme-ananke/
+# and https://github.com/budparr/gohugo-theme-ananke/blob/master/exampleSite/config.toml
+theme = "ananke"
+
+[params]
+  featured_image = "/images/2018-meetup.jpg"
+  facebook = "https://www.facebook.com/groups/atlantasynthclub"
+### end: theme settings ###
