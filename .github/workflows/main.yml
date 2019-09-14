@@ -1,3 +1,5 @@
+name: Site Deploy
+
 on:
   push:
     branches:
