@@ -14,7 +14,7 @@ Internet vitriol at bay.
 
 If you live in Atlanta, or the south east in general, and are looking for a
 community where you can ask any question about synthesis, or look for a fair
-trade on gear, head on over to our [Facebook group][fbgroup] and smash that
-join button.
+trade on gear, find us on [Facebook][fbgroup] and [Discord][discord].
 
 [fbgroup]: https://www.facebook.com/groups/atlantasynthclub/
+[discord]: https://discord.gg/srp99jK
