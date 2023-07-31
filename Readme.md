@@ -1,8 +1,9 @@
 This project is based on [Hugo](https://gohugo.io/).
 
-1. Install gvm: https://github.com/moovweb/gvm
-2. Install Go: `gvm install go1.9 -B`
-3. Install Hugo: `go get -v github.com/gohugoio/hugo`
+1. Install g: https://github.com/stefanmaric/g
+2. Install Go: `g install latest`
+3. Install Hugo: `go install github.com/gohugoio/hugo@latest`
+4. Install Git submodules: `git submodule init && git submodule update`
 
 To view the site while writing: `hugo server -D`
 To build the site into the `public` directory: `hugo`

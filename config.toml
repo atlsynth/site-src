@@ -10,5 +10,14 @@ theme = "ananke"
 
 [params]
   featured_image = "/images/2018-meetup.jpg"
-  facebook = "https://www.facebook.com/groups/atlantasynthclub"
+
+[[params.ananke_socials]]
+  name = "facebook"
+  label = "Facebook"
+  url = "https://www.facebook.com/groups/atlantasynthclub"
+
+[[params.ananke_socials]]
+  name = "discord"
+  label = "Discord"
+  url = "https://discord.gg/srp99jK"
 ### end: theme settings ###
